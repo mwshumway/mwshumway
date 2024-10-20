@@ -1,7 +1,6 @@
 - Hi, I’m @mwshumway
-- I’m interested in scientific programming, applied and computational math, deep learning, reinforcement learning, and many other things!
-- I’m currently learning applied and computational math at BYU and working on side projects in DL
-- I’m looking to collaborate on any DL or RL projects
+- Currently an Applied and Computation Mathematics undergrad at BYU (ACME)
+- Interested in many things machine learning related
 - Reach me at email - mwshumway7@gmail.com
 - Pronouns: He/Him
 
