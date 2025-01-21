@@ -2,7 +2,7 @@
 I'm an undergraduate student at Brigham Young University (BYU) studying applied and computational mathematics. I have the priveledge of currently doing research with [Dr. Mark Kempton](https://science.byu.edu/directory/mark-kempton) on nonbacktracking random walks on graphs. 
 
 # Research Interests
-Broadly interesting in many things machine learning related. More specifically, I'm really interested in 
+Broadly interested in many things machine learning related. More specifically, I'm really interested in 
 - Reinforcement Learning
 - Theory of Deep Learning
 - Optimization
