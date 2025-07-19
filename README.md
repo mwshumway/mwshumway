@@ -1,5 +1,5 @@
 # Matt Shumway
-I'm an undergraduate student at Brigham Young University (BYU) studying applied and computational mathematics. I have the priveledge of currently doing research with [Dr. Mark Kempton](https://science.byu.edu/directory/mark-kempton) on nonbacktracking random walks on graphs. 
+I'm an incoming PhD candidate in Computing and Data Sciences at Boston University. Previous to this, I graduated with a B.S. in Applied and Computational Mathematics from Brigham Young University (BYU). There, I had the priveledge of doing research with [Dr. Mark Kempton](https://science.byu.edu/directory/mark-kempton) on non-backtracking random walks on graphs. 
 
 # Research Interests
 Broadly interested in many things machine learning related. More specifically, I'm really interested in 
@@ -8,8 +8,9 @@ Broadly interested in many things machine learning related. More specifically, I
 - Optimization
 
 # Technical Work Experience
-- Graph theory research assistant at BYU (current)
-- R&D intern at bioMérieux (Past)
+- AI Engineer intern at Vivint (current)
+- Graph theory research assistant at BYU (past)
+- R&D intern at bioMérieux (past)
 - Control theory and mathematical biology research assistant positions at BYU (past)
 
 # Contact
